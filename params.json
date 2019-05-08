@@ -1,6 +1,0 @@
-{
-  "name": "Janecal",
-  "tagline": "A Sexy & Simple Calendar",
-  "body": "### Not just a calendar.\r\nA good application should not only be used to query the calendar date, but you can show the beauty of the world. Why not enjoy a calendar with a beautiful scenery？Calendar also can be sexy.\r\n\r\n![s1](https://raw.githubusercontent.com/lapsong/lapsong.github.io/master/images/s1.png)\r\n\r\n### Practical functions\r\nTo provide a elegant experience, we just keep the calendar function in Janecal without reminders and To-do list.  It is just a calendar,  which is probably the best alternative of the system calendar app.\r\n\r\n### Development technology\r\nJanecal is build on Electron, which is a framework for creating native applications with web technologies like JavaScript, HTML, and CSS.\r\n\r\n### Support or Contact\r\nIn order to express my gratitude for your support, I promise that I will provide the permanent after-sales service for you.\r\nIf you get any problems with Janecal, please contact with me `lapsong13@foxmail.com`.I am looking forward to your valuable suggestions.",
-  "note": "Don't delete this file! It's used internally to help with page regeneration."
-}
